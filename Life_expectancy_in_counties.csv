@@ -1,0 +1,193 @@
+county,gender,life_expectancy
+Lamu,males,67
+Marsabit,males,72
+Tana River,males,68
+Mombasa,males,67
+Kwale,males,65
+Taita Taveta,males,59
+Nyandarua,males,66
+Nyeri,males,65
+Kiambu,males,69
+Nairobi,males,68
+Wajir,males,55
+Nyamira,males,65
+Vihiga,males,56
+Kisumu,males,61
+Migori,males,64
+Kisii,males,66
+Nandi,males,60
+Kakamega,males,63
+Kenya,males,65
+Kirinyaga,males,69
+Meru,males,68
+Kitui,males,72
+Makueni,males,71
+Mandera,males,62
+Trans Nzoia,males,62
+Uasin Gishu,males,60
+Nakuru,males,59
+Busia,males,63
+Murang<U+201F>a,males,65
+Elgeyo Marakwet,males,62
+Laikipia,males,58
+Kajiado,males,66
+Kilifi,males,64
+Isiolo,males,72
+Tharaka,males,65
+Embu,males,65
+Siaya,males,54
+Turkana,males,62
+Baringo,males,60
+Narok,males,68
+Machakos,males,68
+Kericho,males,60
+Bomet,males,60
+Homa Bay,males,59
+Garissa,males,68
+West Pokot,males,66
+Samburu,males,62
+Bungoma,males,67
+Lamu,males over 60,77
+Marsabit,males over 60,79
+Tana River,males over 60,79
+Mombasa,males over 60,75
+Kwale,males over 60,76
+Taita Taveta,males over 60,74
+Nyandarua,males over 60,76
+Nyeri,males over 60,76
+Kiambu,males over 60,77
+Nairobi,males over 60,77
+Wajir,males over 60,74
+Nyamira,males over 60,76
+Vihiga,males over 60,74
+Kisumu,males over 60,76
+Migori,males over 60,78
+Kisii,males over 60,78
+Nandi,males over 60,75
+Kakamega,males over 60,75
+Kenya,males over 60,77
+Kirinyaga,males over 60,78
+Meru,males over 60,77
+Kitui,males over 60,79
+Makueni,males over 60,78
+Mandera,males over 60,76
+Trans Nzoia,males over 60,80
+Uasin Gishu,males over 60,75
+Nakuru,males over 60,76
+Busia,males over 60,76
+Murang<U+201F>a,males over 60,76
+Elgeyo Marakwet,males over 60,76
+Laikipia,males over 60,76
+Kajiado,males over 60,77
+Kilifi,males over 60,76
+Isiolo,males over 60,79
+Tharaka,males over 60,75
+Embu,males over 60,75
+Siaya,males over 60,75
+Turkana,males over 60,77
+Baringo,males over 60,76
+Narok,males over 60,80
+Machakos,males over 60,77
+Kericho,males over 60,76
+Bomet,males over 60,76
+Homa Bay,males over 60,77
+Garissa,males over 60,79
+West Pokot,males over 60,79
+Samburu,males over 60,80
+Bungoma,males over 60,76
+Lamu,females,61
+Marsabit,females,68
+Tana River,females,65
+Mombasa,females,65
+Kwale,females,63
+Taita Taveta,females,57
+Nyandarua,females,65
+Nyeri,females,64
+Kiambu,females,68
+Nairobi,females,68
+Wajir,females,55
+Nyamira,females,65
+Vihiga,females,56
+Kisumu,females,62
+Migori,females,65
+Kisii,females,67
+Nandi,females,61
+Kakamega,females,64
+Kenya,females,67
+Kirinyaga,females,71
+Meru,females,70
+Kitui,females,74
+Makueni,females,73
+Mandera,females,64
+Trans Nzoia,females,64
+Uasin Gishu,females,62
+Nakuru,females,61
+Busia,females,65
+Murang<U+201F>a,females,68
+Elgeyo Marakwet,females,65
+Laikipia,females,61
+Kajiado,females,69
+Kilifi,females,68
+Isiolo,females,76
+Tharaka,females,69
+Embu,females,69
+Siaya,females,58
+Turkana,females,66
+Baringo,females,64
+Narok,females,72
+Machakos,females,73
+Kericho,females,65
+Bomet,females,65
+Homa Bay,females,67
+Garissa,females,77
+West Pokot,females,75
+Samburu,females,71
+Bungoma,females,77
+Lamu,females over 60,75
+Marsabit,females over 60,78
+Tana River,females over 60,80
+Mombasa,females over 60,75
+Kwale,females over 60,77
+Taita Taveta,females over 60,76
+Nyandarua,females over 60,77
+Nyeri,females over 60,78
+Kiambu,females over 60,78
+Nairobi,females over 60,79
+Wajir,females over 60,75
+Nyamira,females over 60,76
+Vihiga,females over 60,77
+Kisumu,females over 60,78
+Migori,females over 60,78
+Kisii,females over 60,78
+Nandi,females over 60,75
+Kakamega,females over 60,77
+Kenya,females over 60,78
+Kirinyaga,females over 60,81
+Meru,females over 60,77
+Kitui,females over 60,80
+Makueni,females over 60,79
+Mandera,females over 60,77
+Trans Nzoia,females over 60,78
+Uasin Gishu,females over 60,75
+Nakuru,females over 60,77
+Busia,females over 60,77
+Murang<U+201F>a,females over 60,78
+Elgeyo Marakwet,females over 60,76
+Laikipia,females over 60,77
+Kajiado,females over 60,79
+Kilifi,females over 60,78
+Isiolo,females over 60,82
+Tharaka,females over 60,77
+Embu,females over 60,77
+Siaya,females over 60,78
+Turkana,females over 60,83
+Baringo,females over 60,78
+Narok,females over 60,82
+Machakos,females over 60,79
+Kericho,females over 60,83
+Bomet,females over 60,80
+Homa Bay,females over 60,81
+Garissa,females over 60,83
+West Pokot,females over 60,87
+Samburu,females over 60,88
+Bungoma,females over 60,77
